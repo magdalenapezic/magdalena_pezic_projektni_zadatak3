@@ -1,0 +1,119 @@
+@font-face {
+    font-family: "MagdalenaPezic";
+    src: url("vjezbe/MagdalenaPezic_va.ttf") format("opentype");
+}
+
+body{
+ margin: 0 auto;
+ max-width:700px;
+}
+
+
+
+p {
+ color: white;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 20px;
+ line-height: 22px;
+ max-width: 700px;
+ background-color: rgba(35, 90, 72, 0.5);
+ padding: 20px;
+
+}
+.paragraf_2 {
+ color: white; 
+ background-color: rgba(35, 90, 72, 0.5);
+}
+
+.novi_blok {
+ background-color: rgba(35, 90, 72, 0.5);
+ padding: 20px;
+}
+h1, h2 {
+ font-family: Arial, Helvetica, sans-serif;
+ color:rgba(35, 90, 72, 0.9);
+ font-size: 30px;
+
+}
+
+h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color:rgba(35, 90, 72, 0.9);
+ font-size: 24px;
+}
+
+span {color: rgb(125, 4, 125);}
+.pozadina{
+	background-image: url("Multimedija/slika.7.jpg")
+	
+}
+.druga{
+ background-color: rgba(35, 90, 72, 0.5);
+}
+a:link {
+ color: white;
+ background-color: rgba(35, 90, 72, 0.5);
+ padding: 10px;
+ line-height: 50px;
+ border: 1px solid #fff; 
+
+}
+a:hover{
+ background-color: rgb(144, 200, 144, 1);
+}
+.magdalena{
+ color: white;
+ font-size: 88px;
+ line-height: 18px;
+ width: 600px;
+ font-family: "MagdalenaPezic_va", sans-serif;
+ padding-left: 36px;
+ letter-spacing: 2px;
+}
+
+
+li { 
+ display:inline;
+ background-color:rgba(144, 200, 144, 0.3);
+}
+
+li:active {background-color:white;} 
+
+li a { 
+ color:white; 
+ text-transform: uppercase;
+}
+
+li a:link {text-decoration:none;}
+
+li a:hover {text-decoration:underline;}
+
+
+.navigacija{
+ color: white;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 18px;
+ line-height: 18px;
+ width: 350px;
+ background-color: rgba(144, 200, 144, 0.5);
+ padding: 20px;
+}
+.h2{
+ font-family: Helvetica, Arial, sans-serif;
+ color: white;
+ font-size: 32px;
+} 
+.h1{
+ font-size: 48px;
+ padding-left: 36px;
+}
+.novo{
+ color:white;
+ font-size: 40px;
+}
+img{
+	height: 200px;
+}
+.drugapozadina {
+	background-color: rgba(35, 90, 72, 0.3);
+}
